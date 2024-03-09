@@ -1,0 +1,75 @@
+body{
+    background-color:#3B4664;
+}
+
+h3{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.Input-Box{
+    width: 500px;
+height: 110px;
+top: 95px;
+left: 470px;
+border-radius: 12px;
+box-shadow: 0px 4px 4px 0px #00000040;
+background-color:#181F32;
+position: absolute;
+color:White;
+font-size:large ;
+}
+
+.Container{
+    width: 500px;
+height: 487px;
+border-radius:12px;
+top: 225px;
+left: 470px;
+position: absolute;
+background-color: #252D44;
+box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+
+.row{
+    display: flex;
+    padding:20px 10px 10px 20px;
+    gap:20px;
+   
+}
+
+.button{
+    width: 100px;
+    height: 60px;
+    border-radius: 12px;
+    background-color: #EAE3DB;
+    font-size: large;
+    color:  #3B4664; 
+    
+}
+
+#Reset-Button{
+    width: 222.44px;
+height: 60px;
+border-radius: 11.52px;
+background-color: #647299;
+color: white;
+
+}
+
+#Equals-button{
+    width: 218px;
+height: 60px;
+left: 243.56px;
+border-radius: 11.52px;
+background-color: #D13F30;
+color: white;
+
+
+}
+
+#Delete-button{
+    background-color: #647299;
+    color: white;
+}
